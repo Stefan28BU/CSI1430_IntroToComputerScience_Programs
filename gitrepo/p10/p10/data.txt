@@ -1,0 +1,8 @@
+Command  x-coordinate  y-coordinate
+START 0  0
+DATA 24 24
+DATA 4 24
+DATA 4 124
+DATA -25 12
+DATA 0 0
+STOP  195  215
